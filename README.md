@@ -1,4 +1,4 @@
-# EasyRSGain 2026 🚀
+# EasyRSGain Studio 🚀
 Herramienta profesional para la normalización de audio (LUFS) y edición masiva de metadatos en Debian.
 
 ## Características
